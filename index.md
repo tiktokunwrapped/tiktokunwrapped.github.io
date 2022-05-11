@@ -10,7 +10,7 @@ This is a digital toolkit allowing you to download your TikTok data and make you
 <br/><br/>
 
 
-### TikTok Data Download
+### Downloading Your TikTok Data
 
 The first step is to request your data from TikTok in a "JSON" format. You can find instructions below. While you don't have to do much, it may take a few days to complete on TikTok's end. Once you click the download button, you will receive a .zip file that downloads to your phone.
 
@@ -34,7 +34,7 @@ If you're technically inclined, you can do this on your own by unzipping your fi
 
 
 
-### Retrieve Relevant Information
+### Retrieving Relevant Information
 
 Now, you should have a "user_data.json" file containing some data. It should look something like this:
 
