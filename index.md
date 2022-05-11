@@ -6,11 +6,18 @@ This is a digital toolkit allowing you to download your TikTok data and make you
 2. Anonymize it and retrieve only the relevant portions
 3. Scrape your TikTok view history for relevant information
 
+
+
+
+
 ### TikTok Data Download
 
 The first step is to request your data from TikTok in a "JSON" format. You can find instructions below. While you don't have to do much, it may take a few days to complete on TikTok's end. Once you click the download button, you will receive a .zip file that downloads to your phone.
 
 [Request your data from TikTok with this guide:](https://docs.google.com/document/d/1ECqOR897-Li5zjiRZcplgkJG86nhst0Isra2h3DxeJE/edit?usp=sharing)
+
+
+
 
 
 ### Extracting View History
@@ -23,11 +30,15 @@ If you're technically inclined, you can do this on your own by unzipping your fi
 
 [Uee this tool to extract your view history from your data](https://tiktokunwrapped.github.io/anonymizer)
 
+
+
+
+
 ### Retrieve Relevant Information
 
 Now, you should have a "user_data.json" file containing some data. It should look something like this:
 
-`
+```
 {
     "VideoList": [
         {
@@ -45,13 +56,17 @@ Now, you should have a "user_data.json" file containing some data. It should loo
         },
     ]
 }
-`
+```
 
 Once you're here, you should send the "user_data.json" file to your computer. Once it's there, you can check out the following guides to retrieve relevant information from your watch history!
 
 [Guide for Mac users](https://tiktokunwrapped.github.io/scraper_mac.html)
 
 [Guide for Windows users](https://tiktokunwrapped.github.io/scraper_windows.html)
+
+
+
+
 
 ## Thanks for Unwrapping with us!
 
