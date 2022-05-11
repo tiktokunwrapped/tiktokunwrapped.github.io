@@ -2,6 +2,8 @@
 
 To scrape your own TikTok history and do some sensemaking activities of your own, download the relevant app above on your computer and follow the associated instructions.
 
+<br/><br/>
+
 ### 1. Opening the app
 
 The link about should download a ".app" file to your computer. Right click it and press "Open" to run. A warning should pop up about an unverified developer; this appears when Apple has not taken a look at the app themselves and published it. Click "allow anyways" to continue. It might take a few seconds for the app to load; try again if nothing has happened after 10 seconds.
