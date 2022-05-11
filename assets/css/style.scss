@@ -3,12 +3,16 @@
 
 @import "{{ site.theme }}";
 
+header {
+    border: none;
+    background:#dddddd;
+}
 
 body {
     margin: 0;
     padding: 0;
     // background: #f4f4f4 url("../images/bkg.png") 0 0;
-    background: #f4f4f4;
+    background: #fafafa;
     color: #000000;
     font-size: 16px;
     line-height: 1.5;
@@ -16,11 +20,11 @@ body {
   }
 
 h1, h2, h3 {
-    color: #d17070;
+    color: #e86767;
     text-shadow:none;
 }
 
-p {
+p, ol, ul {
     font-family: Helvetica;
 }
 
@@ -63,7 +67,7 @@ a {
     margin: 0 0 0 -40px;
     font-weight: bold;
     font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-    color: #d17070;
+    color: #e86767;
     text-shadow: none;
     letter-spacing: -1px;
     -webkit-font-smoothing: antialiased;
