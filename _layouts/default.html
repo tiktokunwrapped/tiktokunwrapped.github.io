@@ -34,4 +34,15 @@
       </section>
     </div>
   </body>
+
+  <script>
+    let currentURL = window.location.href;
+    if (currentURL.includes("scraper")) {
+      let downloadSection = document.querySelector('#downloads');
+      downloadSection.style.display = "none";
+      console.log("got here!")
+    }
+
+  </script>
+  
 </html>

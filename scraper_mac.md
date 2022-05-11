@@ -1,8 +1,6 @@
-## Welcome to ASDFASDF Pages
-TESTETSETSTE
-You can use the [editor on GitHub](https://github.com/tiktokunwrapped/tiktokunwrapped.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Data Scraping Tool
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To scrape your own TikTok history and do some sensemaking activities of your own, download the relevant app below on your computer and follow the associated instructions.
 
 ### Markdown
 
