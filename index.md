@@ -2,9 +2,9 @@
 
 This is a digital toolkit allowing you to download your TikTok data and make your history with the algorithm more legible and accessible to you. Links below are provided to:
 
-1. Download your TikTok data from the app
-2. Anonymize it and retrieve only the relevant portions
-3. Scrape your TikTok view history for relevant information
+1. [Download your TikTok data from the app](#downloading-your-tiktok-data)
+2. [Anonymize it and retrieve only the relevant portions](#extracting-view-history)
+3. [Scrape your TikTok view history for relevant information](#retrieving-relevant-information)
 
 
 <br/><br/>
