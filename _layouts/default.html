@@ -12,7 +12,7 @@
 
   <body>
 
-    <header> ASDF EDITING THE HEADER
+    <header>
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
@@ -37,7 +37,7 @@
 
   <script>
     let currentURL = window.location.href;
-    if (currentURL.includes("scraper")) {
+    if (!currentURL.includes("scraper")) {
       let downloadSection = document.querySelector('#downloads');
       downloadSection.style.display = "none";
       console.log("got here!")
