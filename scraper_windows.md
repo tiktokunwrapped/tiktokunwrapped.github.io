@@ -33,9 +33,11 @@ If you select the right file, it should display a date range below, from older d
 There will be two boxes for you to enter a date in the MM/DD/YY format (M/D/YY works as well). The top date should be older, and the bottom date should be newer. This will allow you to select a "range" of videos to get information for.
 
 You can select with the calendar interface:
+
 ![](./assets/images/windows/date_select_1.png "after picking a file")
 
 Or just manually type the date in.
+
 ![](./assets/images/windows/date_select_2.png "after picking a file")
 
  Be conservative at first - everyone's internet provider is different, and some might not take kindly to you scraping thousands of videos at once.
@@ -67,6 +69,12 @@ Results will be saved in whatever folder your "user_data.json" file was in. It s
 You can open it with any spreadsheet application such as Microsoft Excel. Not every single video out of the ones selected will be there, since sometimes it'll be removed by TikTok, there can be an internal error on TikTok's side, or you can be blocked by TikTok/your ISP.
 
 *For those interested in running their own analysis:* this apps scrapes *all* available data associated with each video and stores it in the directory where your "user_data.json" file was stored. You can use these files for your own analysis purposes to build data visualizations, machine learning models, other analyses, etc.
+
+### 6. Errors?
+
+Given that this is an alpha release, there may be bugs that we haven't thought of. Errors are written to a "logfile.txt" so you can see what videos weren't successfully scraped. Let us know if you run into any issues by emailing tiktokunwrapped@gmail.com !
+
+
 
 
 
