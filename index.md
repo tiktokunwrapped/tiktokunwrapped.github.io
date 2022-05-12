@@ -76,6 +76,6 @@ Are you a programmer yourself who would like to build on the code or simply find
 
 Check out the code for these associated tools at [our github](https://github.com/tiktokunwrapped/). It's all open source!
 
-Have any ideas for data visualizations or summarization tools? We've explored approaches with data visualization and machine learning. Check out some of this existing work [here](https://ochan1.github.io/info247-sp22-tiktok-unwrapped/dist/)
+Have any ideas for data visualizations or summarization tools based on the data we retrieve? We've explored approaches with data visualization and machine learning. Check out some of this existing work [here](https://ochan1.github.io/info247-sp22-tiktok-unwrapped/website/)
 
 
