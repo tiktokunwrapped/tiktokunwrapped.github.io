@@ -1,0 +1,75 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+    border: none;
+    background:#efefef;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    // background: #f4f4f4 url("../images/bkg.png") 0 0;
+    background: #fcfcfc;
+    color: #000000;
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  }
+
+h1, h2, h3 {
+    color: #e86767;
+    text-shadow:none;
+    font-weight:bolder;
+}
+
+p, ol, ul {
+    font-family: Helvetica;
+}
+
+a {
+    color: #63c0f5;
+    text-shadow:none;
+  }
+
+  .btn:hover {
+    color: #f4f4f4;
+    background: #d17070;
+  }
+  .btn {
+    display: inline-block;
+    // background: -webkit-linear-gradient(top, rgba(40,40,40,0.3), rgba(35,35,35,0.3) 50%, rgba(10,10,10,0.3) 50%, rgba(0,0,0,0.3));
+    background: #f4f4f4;
+    padding: 8px 18px;
+    border-radius: 50px;
+    border: 2px #d17070;
+    //   border-top-color: #d17070;
+    //   border-top-style: solid;
+    //   border-top-width: 2px;
+    //   border-bottom-color: #d17070;
+    //   border-bottom-style: solid;
+    //   border-bottom-width: 2px;
+    // border-bottom: 2px solid #d17070;
+    // border-top: 2px solid #000;
+    color: #d17070;
+    font-weight: bold;
+    font-size: 13px;
+    text-decoration: none;
+    text-shadow: none;
+    box-shadow: none;
+  }
+
+
+  header h1 {
+    font-size: 30px;
+    line-height: 1.5;
+    margin: 0 0 0 -40px;
+    font-weight: bold;
+    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+    color: #e86767;
+    text-shadow: none;
+    letter-spacing: -1px;
+    -webkit-font-smoothing: antialiased;
+  }
